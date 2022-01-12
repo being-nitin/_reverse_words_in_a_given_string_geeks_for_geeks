@@ -19,3 +19,4 @@ public class Main {
     }
 }
 // split method will split the String in a parts after getting a regex expression.
+// as like above the string will get split after getting "."
