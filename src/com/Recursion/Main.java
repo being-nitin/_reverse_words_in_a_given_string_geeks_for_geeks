@@ -18,3 +18,4 @@ public class Main {
         return rev +s[0];
     }
 }
+// split method will split the String in a parts after getting a regex expression.
